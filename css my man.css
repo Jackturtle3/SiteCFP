@@ -1,0 +1,285 @@
+.baarre
+{
+    background-color: black; 
+    color:white ;
+
+    padding: 50px 16px;
+}
+.grey 
+{
+    font-style:grey ;
+}
+.center
+{
+    text-align: center;
+    color:white ;
+}
+
+.logo
+{
+    float: left;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color:black;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 16px 14px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: blue;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 164px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: white;
+    padding: 16px 14px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: black;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .navbar2 {
+    overflow: hidden;
+    background-color:black;
+  }
+  
+  .navbar2 a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown2 {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown2 .dropbtn2 {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 16px 14px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar2 a:hover, .dropdown2:hover .dropbtn2 {
+    background-color: blue;
+  }
+  
+  .dropdown-content2 {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 164px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content2 a {
+    float: none;
+    color: white;
+    padding: 16px 14px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content2 a:hover {
+    background-color: black;
+  }
+  
+  .dropdown2:hover .dropdown-content2 {
+    display: block;
+  }
+  .a {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .a .b {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 16px 14px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .a:hover .b {
+    background-color: blue;
+  }
+  
+  .c {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 164px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .c a {
+    float: none;
+    color: white;
+    padding: 16px 14px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .c a:hover {
+    background-color: black;
+  }
+  
+  .a:hover .c {
+    display: block;
+  }
+  .d {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .d .e {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 16px 14px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .d:hover .e {
+    background-color: blue;
+  }
+  
+  .f {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 164px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .f a {
+    float: none;
+    color: white;
+    padding: 16px 14px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .f a:hover {
+    background-color: black;
+  }
+  
+  .d:hover .f {
+    display: block;
+  }
+  .g {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .g .h {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 16px 14px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .g:hover .h {
+    background-color: blue;
+  }
+  
+  .i {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 164px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .i a {
+    float: none;
+    color: white;
+    padding: 16px 14px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .i a:hover {
+    background-color: black;
+  }
+  
+  .g:hover .i {
+    display: block;
+  }
+  .backgr 
+  {
+    background-position: center;
+    background-size: cover;
+    background-image:url("CFP.png") ;
+    min-width: 75%;
+  }
