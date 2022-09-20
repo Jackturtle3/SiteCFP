@@ -14,7 +14,10 @@
     text-align: center;
     color:white ;
 }
-
+.right
+{
+  text-align: right;
+}
 .logo
 {
     float: left;
